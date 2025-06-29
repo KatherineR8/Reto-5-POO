@@ -4,7 +4,7 @@
 #### Create a package with all code of class Shape, this exersice should be conducted in two ways:
 #### A unique module inside of package Shape
 
-
+![Modulos](Modulos.png)
 ```python
 class Point:
   definition: str = "Entidad geometrica abstracta que representa una ubicación en un espacio."
